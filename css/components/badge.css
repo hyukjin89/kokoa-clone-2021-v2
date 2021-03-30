@@ -1,0 +1,39 @@
+.badge {
+  background-color: tomato;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+
+.badge-exclamation {
+  margin-left: 2px;
+  background-color: white;
+  width: 13px;
+  height: 13px;
+  border: 2px solid tomato;
+  border-radius: 50%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  color: tomato;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.badge-new {
+  background-color: tomato;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  color: white;
+  font-weight: 600;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10px;
+}
